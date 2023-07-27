@@ -1,7 +1,6 @@
-# RasspberryPi-IDS
+# RasspberryPi-Smart-IDS
 
-Dans ce projet, j'ai commencé par données des généralités sur Raspberry Pi, car ce magique petit ordinateur est en tendance ces dernier années.
-Vu que je suis éléve ingénieure en 1re année SSI (sécurité des systèmes d'information), j'ai essayé de lier et utilisation de Raspberry Pi avec quelques notions de sécurité . Donc, après des recherches ont sécurité, j'ai finalement décidé d'utiliser le RPi comme une IDS (Introsion détection System).
-Par la suite, j'ai tout détaillé dans ce rapport en haut.
-
-Vous trouvez aussi une présentation qui résume le rapport sous le nomme RPI.
+Ce travail vise à découvrir les systèmes de détection d’intrusion et leur fonctionnement lors de la surveillance d’un réseau.
+Pour étudier de près cet outil de surveillance, une solution simple et efficace sera proposée en combinant le célèbre nano-ordinateur : le Raspberry Pi et le fameux système de détection d’intrusion : Suricata. 
+Il est vrai que cette solution concerne les petits réseaux mais elle peut s’étendre après aux réseaux à grande échelle on remplacant le Raspberry PI par un serveur.
+Ensuite, on examinera l’impact de l’intelligence artificielle et les techniques de Machine Learning sur ces systèmes qui peuvent devenir plus intelligents et plus performants. En essayant finalement de construire un modèle basé ces nouvelles technologies pour une atteindre un niveau élevé de sécurité réseau.
